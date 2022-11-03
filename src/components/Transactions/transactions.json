@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Payment",
+        "amount": "154.00",
+        "currency": "USD"
+    },
+    {
+        "type": "Payment",
+        "amount": "600.00",
+        "currency": "CLP"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Kostia",
+        "status": "online",
+        "tag": "kostia2344",
+        "avatar": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/103/face-with-one-eyebrow-raised_1f928.png"
+    },
+    {
+        "name": "Yarik",
+        "status": "offline",
+        "tag": "yarik_ua",
+        "avatar": "https://hotemoji.com/images/dl/1/devil-emoji-by-twitter.png"
+    },
+    {
+        "name": "Emil",
+        "status": "online",
+        "tag": "emil_emil",
+        "avatar": "https://cdn3.emoji.gg/emojis/2521-man-pou.png"
+    }
+]

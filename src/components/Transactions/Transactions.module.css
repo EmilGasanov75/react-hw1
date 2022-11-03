@@ -1,0 +1,13 @@
+thead, tbody {
+    text-align: left;
+    width: 100vw;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 45%;
+}
